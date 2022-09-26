@@ -1,4 +1,4 @@
-package one.digitalInnovation.basecamp;
+package one.digitalInnovation.basecamp.variavel;
 
 public class Main {
     public static void main(String[] args) {
